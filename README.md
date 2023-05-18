@@ -1,5 +1,5 @@
-# wp_env_templates
-## @wordpress/envの基礎テンプレート
+# wp_env_templatesの基礎テンプレート
+## @wordpress/env
 
 このリモートリポジトリーは、@wordpress/envを使用した基礎テンプレートです。<br>
 (This remote repository is a foundation template using @wordpress/env.)
